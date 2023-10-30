@@ -1,4 +1,4 @@
-![logo](https://github.com/Aliyan669/Aliyan669/blob/main/ezgif-3-b925b28e3d.jpg)
+![logo](https://github.com/Aliyan669/Aliyan669/blob/main/image.jpg)
 <h1 align="center">Hi 👋, I'm Aliyan Amir</h1>
 <h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
 
